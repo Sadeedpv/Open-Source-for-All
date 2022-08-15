@@ -63,8 +63,11 @@ If you go to your repository on GitHub, you'll see a `Compare & pull request` bu
 
 ![Pull request](./assets/pr.png)
 
-Then, you can submit the Pull request
-![Pull request](./assets/openpr.png)
+Then, you can submit the Pull request by clicking the  `Create pull request` button
+![Pull request](./assets/submitpr.png)
+
+### Congratulations 🎊
+Congratulations!! You have successfully created your first PR
 
 ## Contributing 
 
