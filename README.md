@@ -33,6 +33,30 @@ For example
 git switch -c Addname
 ```
 
+### Step IV: Commit necessary changes
+Make all the necessary changes
+#### What to contribute?
+You can Add your GitHub username and link to the `PROFILES.md` file in the _alphabetic order_ or find typos in the documentation.
+In the `PROFILES.md` file, do the following
+```markdown
+- [GitHub-username](GitHub-link) - <Your Bio>
+```
+Add those changes to the branch you just created using the `git add` command:
+```bash
+git add PROFILES.MD
+```
+Now commit those changes using `git commit` command:
+```bash
+git commit -am "Add name to profiles list"
+```
+
+### Step V: Push to GitHub
+You can push those changes using the `git push` command:
+```bash
+git push origin -u <your branch name>
+```
+You can find your current branch name that you made in the beginning using the command `git branch`
+
 ## Contributing 
 
 Contributions are always welcome!
