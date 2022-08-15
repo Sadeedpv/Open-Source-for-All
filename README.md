@@ -1,4 +1,5 @@
 # Open-Source-for-All 👑
+![Open-Source-for-All](./assets/opensource.png)
 Are you a beginner who is looking to contribute to open-source projects 🚀? Then make your first PR from here! 🎉
 
 ## What is this?
@@ -56,6 +57,14 @@ You can push those changes using the `git push` command:
 git push origin -u <your branch name>
 ```
 You can find your current branch name that you made in the beginning using the command `git branch`
+
+### Step VI: Submit for review
+If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
+
+![Pull request](./assets/pr.png)
+
+Then, you can submit the Pull request
+![Pull request](./assets/openpr.png)
 
 ## Contributing 
 
