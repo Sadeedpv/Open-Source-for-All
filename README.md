@@ -74,8 +74,3 @@ Congratulations!! You have successfully created your first PR
 Contributions are always welcome!
 Please adhere to this project's `code of conduct`.
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/) &nbsp;
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-
