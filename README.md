@@ -68,6 +68,7 @@ Then, you can submit the Pull request by clicking the  `Create pull request` but
 
 ### Congratulations 🎊
 Congratulations!! You have successfully created your first PR
+Congrats! on your first collaboration
 
 ## Contributing 
 
