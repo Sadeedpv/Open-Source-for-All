@@ -9,4 +9,4 @@ All the Profiles that our community has been added can be seen here
 - [Yh010](https://github.com/Yh010) - Kubernetes enthusiast | Blog writer | open source contributor  
 - [devvspaces](https://github.com/devvspaces) - Devops & System Architect | open source contributor  
 - [ben-cheng565](https://github.com/ben-cheng565) - Software Engineer
-- [NjeruKariuki] (https://github.com/NjeruKariuki) - Django developer and arduino hobbyist | seo expert and web developer
+- [NjeruKariuki](https://github.com/NjeruKariuki) - Django developer and arduino hobbyist | seo expert and web developer
