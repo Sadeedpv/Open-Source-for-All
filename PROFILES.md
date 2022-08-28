@@ -12,3 +12,5 @@ All the Profiles that our community has been added can be seen here
 - [ben-cheng565](https://github.com/ben-cheng565) - Software Engineer
 - [Aahil](https://github.com/Aahil13/) - Frontend Dev || Technical writer
 - [NjeruKariuki](https://github.com/NjeruKariuki) - Django developer and arduino hobbyist | seo expert and web developer
+- [ahmadhassan7](https://github.com/ahmadhassan7) - Flutter developer and ai for medicine researcher
+
