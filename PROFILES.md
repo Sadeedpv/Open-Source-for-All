@@ -14,4 +14,4 @@ All the Profiles that our community has been added can be seen here
 - [NjeruKariuki](https://github.com/NjeruKariuki) - Django developer and arduino hobbyist | seo expert and web developer
 - [ahmadhassan7](https://github.com/ahmadhassan7) - Flutter developer and ai for medicine researcher
 - [MrKrishnaAgarwal](https://github.com/MrKrishnaAgarwal) - Tech Passionate | Open Source Enthusiast | Cloud Enthusiast
-
+- [Ifeanyi Chima](https://github.com/masterifeanyi) - Frontend Dev || Technical writer
