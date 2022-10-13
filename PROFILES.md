@@ -4,6 +4,7 @@ All the Profiles that our community has been added can be seen here
 
 ## GitHub users-list
 
+- [Ajay Gowda](https://github.com/AjayGowda7) - Full Stack Dev(Angular) || Google Cloud Architect
 - [Sadeed pv](https://github.com/Sadeedpv) - Full-stack developer | Blog writer
 - [Dev Kumar Gupta](https://github.com/DevGupta-ikr) - Drawing Rectangles and Circles in Figma. Product Design and AI/ML
 - [Devarshi Shimpi](https://github.com/devarshishimpi) - Founder Of DVS Tech, Frontend Developer, Desktop C# Developer, Full Stack Developer, Bot Developer
