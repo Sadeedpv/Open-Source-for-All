@@ -18,4 +18,3 @@ All the Profiles that our community has been added can be seen here
 - [MrKrishnaAgarwal](https://github.com/MrKrishnaAgarwal) - Tech Passionate | Open Source Enthusiast | Cloud Enthusiast
 - [Ifeanyi Chima](https://github.com/masterifeanyi) - Frontend Dev || Technical writer
 - [Athul k kumar](https://github.com/AthulKkumar) - Fullstack Dev || OpenSoucre contributour
-- [Riccardo Di Curti](https://github.com/riccardodicurti) - Fullstack Dev
