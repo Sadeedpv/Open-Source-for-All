@@ -9,8 +9,7 @@ We will teach you step by step on how to make your first contribution in the ope
 
 ## Step-by-step tutorial
 
-### Step I: Fork the repository 
-
+### Step I: Fork the repository
 Fork this repository by clicking on the fork button on the top of this page. This will create a copy of this repository in your account.
 
 ### Step II: Clone the repository
@@ -36,6 +35,7 @@ git switch -c Addname
 
 ### Step IV: Commit necessary changes
 Make all the necessary changes
+
 #### What to contribute?
 You can Add your GitHub username and link to the `PROFILES.md` file in the _alphabetic order_ or find typos in the documentation.
 In the `PROFILES.md` file, do the following
@@ -64,14 +64,13 @@ If you go to your repository on GitHub, you'll see a `Compare & pull request` bu
 ![Pull request](./assets/pr.png)
 
 Then, you can submit the Pull request by clicking the  `Create pull request` button
+
 ![Pull request](./assets/submitpr.png)
 
 ### Congratulations 🎊
 Congratulations!! You have successfully created your first PR
 Congrats! on your first collaboration
 
-## Contributing 
-
+## Contributing
 Contributions are always welcome!
 Please adhere to this project's `code of conduct`.
-
