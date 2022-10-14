@@ -16,5 +16,6 @@ All the Profiles that our community has been added can be seen here
 - [MrKrishnaAgarwal](https://github.com/MrKrishnaAgarwal) - Tech Passionate | Open Source Enthusiast | Cloud Enthusiast
 - [ngdream](https://github.com/ngdream) - c++ and python developer | love contribute to open source projects
 - [NjeruKariuki](https://github.com/NjeruKariuki) - Django developer and arduino hobbyist | seo expert and web developer
+- [Riccardo Di Curti](https://github.com/riccardodicurti) - Fullstack Dev
 - [Sadeed pv](https://github.com/Sadeedpv) - Full-stack developer | Blog writer
-- [Yh010](https://github.com/Yh010) - Kubernetes enthusiast | Blog writer | open source contributor  
+- [Yh010](https://github.com/Yh010) - Kubernetes enthusiast | Blog writer | open source contributor 
