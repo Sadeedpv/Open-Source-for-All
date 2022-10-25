@@ -19,3 +19,4 @@ All the Profiles that our community has been added can be seen here
 - [Ifeanyi Chima](https://github.com/masterifeanyi) - Frontend Dev || Technical writer
 - [Athul k kumar](https://github.com/AthulKkumar) - Fullstack Dev || OpenSoucre contributour
 - [Abishethvarman](https://github.com/abishethvarman) - Fullstack Dev |Machine Learning Engineer| OpenSoucre contributour
+- [Anne-98](https://github.com/Anne-98) - Fullstack Dev | MERN Stack | Oracle EPBCS |OpenSoucre contributour
