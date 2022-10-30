@@ -6,6 +6,7 @@ All the Profiles that our community has been added can be seen here
 
 - [Ajay Gowda](https://github.com/AjayGowda7) - Full Stack Dev(Angular) || Google Cloud Architect
 - [Sadeed pv](https://github.com/Sadeedpv) - Full-stack developer | Blog writer
+- [Daniel Armas Ramírez](https://github.com/daniel692a) - Incoming Explore intern at Microsoft
 - [Dev Kumar Gupta](https://github.com/DevGupta-ikr) - Drawing Rectangles and Circles in Figma. Product Design and AI/ML
 - [Devarshi Shimpi](https://github.com/devarshishimpi) - Founder Of DVS Tech, Frontend Developer, Desktop C# Developer, Full Stack Developer, Bot Developer
 - [ngdream](https://github.com/ngdream) - c++ and python developer | love contribute to open source projects
@@ -20,3 +21,6 @@ All the Profiles that our community has been added can be seen here
 - [Athul k kumar](https://github.com/AthulKkumar) - Fullstack Dev || OpenSoucre contributour
 - [Abishethvarman](https://github.com/abishethvarman) - Fullstack Dev |Machine Learning Engineer| OpenSoucre contributour
 - [Thanistas](https://github.com/Thanisthani) - Fullstack Dev |Mobile developer| OpenSoucre Enthusiast
+- [Anne-98](https://github.com/Anne-98) - Fullstack Dev | MERN Stack | Oracle EPBCS |OpenSoucre contributour
+- [MS14-dev](https://github.com/MS14-dev) - Fullstack Dev |MERN Stack| OpenSoucre contributour
+- [Vidhya Venkatesan](https://github.com/vidhyav656) - Fullstack Developer |Senior Software Engineer| OpenSoucre contributour
