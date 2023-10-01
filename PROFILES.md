@@ -26,4 +26,4 @@ All the Profiles that our community has been added can be seen here
 - [MS14-dev](https://github.com/MS14-dev) - Fullstack Dev | MERN Stack | Open Source Contributor
 - [Vidhya Venkatesan](https://github.com/vidhyav656) - Fullstack Developer | Senior Software Engineer| Open Source contributor
 - [dilshan1997](https://github.com/Dilshan1997) - Full stack developer | Blockchain enthiastic
-  \_ [Pinaka Pani](https://github.com/Pinaka-Pani-18) - Frontend Developer | Open Source Contributor | Java Programming
+- [Pinaka Pani](https://github.com/Pinaka-Pani-18) - Frontend Developer | Open Source Contributor | Java Programming
