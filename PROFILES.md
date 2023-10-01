@@ -4,8 +4,8 @@ All the Profiles that our community has been added can be seen here
 
 ## GitHub users-list
 
-- [Alice-Dragnea](https://github.com/Alice-Dragnea)
 - [Sadeed pv](https://github.com/Sadeedpv) - Full-stack developer | Blog writer
+- [Alice-Dragnea](https://github.com/Alice-Dragnea)
 - [Ajay Gowda](https://github.com/AjayGowda7) - Full Stack Dev(Angular) | Google Cloud Architect
 - [Daniel Armas Ramírez](https://github.com/daniel692a) - Incoming Explore intern at Microsoft
 - [Dev Kumar Gupta](https://github.com/DevGupta-ikr) - Drawing Rectangles and Circles in Figma. Product Design and AI/ML
