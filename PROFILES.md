@@ -5,6 +5,7 @@ All the Profiles that our community has been added can be seen here
 ## GitHub users-list
 
 - [Sadeed pv](https://github.com/Sadeedpv) - Full-stack developer | Blog writer
+- [Alice-Dragnea](https://github.com/Alice-Dragnea)
 - [Ajay Gowda](https://github.com/AjayGowda7) - Full Stack Dev(Angular) | Google Cloud Architect
 - [Daniel Armas Ramírez](https://github.com/daniel692a) - Incoming Explore intern at Microsoft
 - [Dev Kumar Gupta](https://github.com/DevGupta-ikr) - Drawing Rectangles and Circles in Figma. Product Design and AI/ML
@@ -19,10 +20,10 @@ All the Profiles that our community has been added can be seen here
 - [MrKrishnaAgarwal](https://github.com/MrKrishnaAgarwal) - Tech Passionate | Open Source Enthusiast | Cloud Enthusiast
 - [Ifeanyi Chima](https://github.com/masterifeanyi) - Frontend Dev | Technical writer
 - [Athul k kumar](https://github.com/AthulKkumar) - Fullstack Dev | Open Source Contributor
-- [Abishethvarman](https://github.com/abishethvarman) - Fullstack Dev | Machine Learning Engineer | Open Source contributour
+- [Abishethvarman](https://github.com/abishethvarman) - Fullstack Dev | Machine Learning Engineer | Open Source contributor
 - [Thanistas](https://github.com/Thanisthani) - Fullstack Dev | Mobile developer | Open Source Enthusiast
 - [Anne-98](https://github.com/Anne-98) - Fullstack Dev | MERN Stack | Oracle EPBCS | Open Source contributor
 - [MS14-dev](https://github.com/MS14-dev) - Fullstack Dev | MERN Stack | Open Source Contributor
-- [Vidhya Venkatesan](https://github.com/vidhyav656) - Fullstack Developer | Senior Software Engineer| Open Source contributour
+- [Vidhya Venkatesan](https://github.com/vidhyav656) - Fullstack Developer | Senior Software Engineer| Open Source contributor
 - [dilshan1997](https://github.com/Dilshan1997) - Full stack developer | Blockchain enthiastic
-  \_ [Pinaka Pani](https://github.com/Pinaka-Pani-18) - Frontend Developer | Open Source Contributor | Java Programming
+- [Pinaka Pani](https://github.com/Pinaka-Pani-18) - Frontend Developer | Open Source Contributor | Java Programming
