@@ -27,3 +27,4 @@ All the Profiles that our community has been added can be seen here
 - [Vidhya Venkatesan](https://github.com/vidhyav656) - Fullstack Developer | Senior Software Engineer| Open Source contributor
 - [dilshan1997](https://github.com/Dilshan1997) - Full stack developer | Blockchain enthiastic
 - [Pinaka Pani](https://github.com/Pinaka-Pani-18) - Frontend Developer | Open Source Contributor | Java Programming
+- [Jay Keer](https://github.com/Yolo-cell-hash) - Cloud Enthusiast | Full Stack Developer | Open Source Contributor
