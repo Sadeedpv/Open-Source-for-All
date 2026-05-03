@@ -28,3 +28,4 @@ All the Profiles that our community has been added can be seen here
 - [dilshan1997](https://github.com/Dilshan1997) - Full stack developer | Blockchain enthiastic
 - [Pinaka Pani](https://github.com/Pinaka-Pani-18) - Frontend Developer | Open Source Contributor | Java Programming
 - [Jay Keer](https://github.com/Yolo-cell-hash) - Cloud Enthusiast | Full Stack Developer | Open Source Contributor
+- [MA-NOA](https://github.com/MA-NOA/MA-NOA) - Mathematics Students | Open Source Contributor
