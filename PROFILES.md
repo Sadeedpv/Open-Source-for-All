@@ -1,6 +1,6 @@
 # GITHUB PROFIILES
 
-All the Profiles that our community has been added can be seen here
+All the profiles added by our community can be viewed here.
 
 ## GitHub users-list
 
