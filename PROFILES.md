@@ -1,9 +1,10 @@
 # GITHUB PROFIILES
 
-All the Profiles that our community has been added can be seen here
+All the profiles added by our community can be viewed here.
 
 ## GitHub users-list
 
+- [Suprio Adhikary](https://github.com/suprio-dev) - Backend-Focused Developer | Open Source Contributor | Exploring the MERN Stack
 - [Sadeed pv](https://github.com/Sadeedpv) - Full-stack developer | Blog writer
 - [Alice-Dragnea](https://github.com/Alice-Dragnea)
 - [Ajay Gowda](https://github.com/AjayGowda7) - Full Stack Dev(Angular) | Google Cloud Architect
